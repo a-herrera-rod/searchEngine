@@ -5,3 +5,13 @@ C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.csprojAssemblyReference.
 C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.csproj.CoreCompileInputs.cache
 C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.exe
 C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.pdb
+E:\Proyectos\searchEngine\searchfight\bin\Debug\searchfight.exe.config
+E:\Proyectos\searchEngine\searchfight\bin\Debug\searchfight.exe
+E:\Proyectos\searchEngine\searchfight\bin\Debug\Newtonsoft.Json.dll
+E:\Proyectos\searchEngine\searchfight\bin\Debug\Newtonsoft.Json.xml
+E:\Proyectos\searchEngine\searchfight\obj\Debug\searchfight.csprojAssemblyReference.cache
+E:\Proyectos\searchEngine\searchfight\obj\Debug\searchfight.csproj.CoreCompileInputs.cache
+E:\Proyectos\searchEngine\searchfight\obj\Debug\searchfight.csproj.CopyComplete
+E:\Proyectos\searchEngine\searchfight\obj\Debug\searchfight.exe
+E:\Proyectos\searchEngine\searchfight\obj\Debug\searchfight.pdb
+E:\Proyectos\searchEngine\searchfight\bin\Debug\searchfight.pdb
