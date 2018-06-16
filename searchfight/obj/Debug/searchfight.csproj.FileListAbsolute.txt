@@ -1,0 +1,7 @@
+C:\Tests\searchEngine\searchfight\bin\Debug\searchfight.exe.config
+C:\Tests\searchEngine\searchfight\bin\Debug\searchfight.exe
+C:\Tests\searchEngine\searchfight\bin\Debug\searchfight.pdb
+C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.csprojAssemblyReference.cache
+C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.csproj.CoreCompileInputs.cache
+C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.exe
+C:\Tests\searchEngine\searchfight\obj\Debug\searchfight.pdb
