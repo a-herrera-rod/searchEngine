@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace searchfight
 {
-    public class Engine
+    public class EngineDTO
     {
-        public string id;
-        public string url;
-        public string key;
-        public string specificEngineId;
+        public string Id;
+        public string Url;
+        public string Key;
+        public string SpecificEngineId;
     }
 }
